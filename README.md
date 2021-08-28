@@ -9,11 +9,14 @@ The challenge is to create an application called Note Taker that can be used to 
 
 The application’s front end has already been created. It's a job to build the back end, connect the two, and then deploy the entire application to Heroku.
 
+##Bonus
+This application has DELETE request functionality in the front end. As a bonus, see if you can add the DELETE route to the application
+
 
 ## Installation
 
-The project can be viewed at: https://AWiebe2021.github.io/Weather-Dashboard/
-The projects code can be accessed at: https://github.com/AWiebe2021/Weather-Dashboard/
+The project can be viewed at: https://nt-challenge.herokuapp.com/
+The projects code can be accessed at: https://github.com/AWiebe2021/Note-Taker
 
 ## Screenshot
 ![Note Taker Screenshot](./Screenshot.png)
